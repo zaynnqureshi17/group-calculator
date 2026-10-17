@@ -1,4 +1,4 @@
-CONTRIBUTORS = [] # Conflicts generator 1
+CONTRIBUTORS = ["Manoprasanth MATHAVAN"] # Conflicts generator 1
 
   def add(a, b):
       pass
