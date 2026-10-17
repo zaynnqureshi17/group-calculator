@@ -7,7 +7,7 @@ CONTRIBUTORS = [] # Conflicts generator 1
       pass
 
   def multiply(a, b):
-      pass
+      return(a*b)
 
   def divide(a, b):
       pass
